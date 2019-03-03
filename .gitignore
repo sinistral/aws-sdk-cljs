@@ -1,0 +1,15 @@
+.DS_Store
+./target
+./classes
+./checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+./.lein-*
+./.nrepl-history
+./.nrepl-port
+./.cljs_node_repl/
+./out/
+.hgignore
+.hg/
